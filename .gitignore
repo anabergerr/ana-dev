@@ -1,0 +1,17 @@
+# Diretórios
+node_modules/
+.next/
+out/
+
+# Arquivos
+*.log
+
+# Arquivos de ambiente
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Outros arquivos específicos do Next.js
+static/
+.next.config.js

@@ -50,7 +50,7 @@ export default function Home() {
             <div className='container'>
               <p className="mt-10 text-center">
 
-                Hello, I am Ana. I am a software developer and a technology instructor. @Trybe.
+                Hello, I am Ana. I am a software developer and a technology instructor.
               </p>
               <p className='mt-2 text-center'>
                 Learn more by accessing my social networks :)
